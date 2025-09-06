@@ -1,0 +1,14 @@
+body {
+margin: 0;
+font-family: "Roboto Flex", sans-serif;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+height: 100vh;
+background-image: url("./assets/mesh-833.png");
+background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
